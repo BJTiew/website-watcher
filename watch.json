@@ -1,7 +1,8 @@
 {
-  "Indian Med product page": {
-    "url": "https://www.indian-med.com/product",
-    "on": "change",
-    "repeat": "forever"
-  }
+    "Indian Med product page": {
+        "url": "https://www.indian-med.com/product",
+        "on": "change",
+        "repeat": "forever",
+        "hash": "f3591ba71669338d1a7114660e7b2143e04aaa5c7f2ef9e0fbe1aea4dd06e8de"
+    }
 }
