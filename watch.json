@@ -1,9 +1,7 @@
 {
-    "GSI positions": {
-        "url": "https://careers.umich.edu/browse-jobs/career_interests/171",
-        "on": "change",
-        "repeat": "forever",
-        "html_id": "block-system-main-block",
-        "hash": "7674aadcb8307313454bf2fb29a6450e4b44b549ca60cc62039ac3bb7dc4ffaf"
-    }
+  "Indian Med product page": {
+    "url": "https://www.indian-med.com/product",
+    "on": "change",
+    "repeat": "forever"
+  }
 }
